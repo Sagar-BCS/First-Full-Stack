@@ -1,0 +1,11 @@
+1. admin
+name, email, pass
+
+2. client
+name, email, pass
+
+3.order
+id, admin, pass, client, pass2, price, products, status
+
+4. product
+id, user, pass, pname, pcat, pdes, price, image
